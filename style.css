@@ -1,7 +1,11 @@
 
-.flex {
+.header-list {
     display:flex;
     justify-content: flex-end;
+    list-style-type: none;
+}
+.list-items {
+    margin-right: 15px;
 }
 .flex-container{
     display: flex;
