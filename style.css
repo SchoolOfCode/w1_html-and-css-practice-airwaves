@@ -1,7 +1,9 @@
-body {
-    background-color:azure;
-}
+
 .flex {
     display:flex;
     justify-content: flex-end;
+}
+.flex-container{
+    display: flex;
+    justify-content: center
 }
