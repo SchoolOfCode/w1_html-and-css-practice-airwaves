@@ -11,3 +11,12 @@
     display: flex;
     justify-content: center
 }
+.input-wrapper{
+    /* padding-inline-end: 44px;
+    padding-inline-start: 52px;
+    position: relative; */
+    width: 561px;
+    height: 42px;
+    outline: none;
+    border-radius:25px;
+}
